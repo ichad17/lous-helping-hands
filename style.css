@@ -8,3 +8,7 @@ body{
   height: 100px;
   background-color: #DDD;
 }
+
+.inlineList {
+  display: inline-block;
+}
