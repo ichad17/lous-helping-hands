@@ -16,6 +16,7 @@ h1, h2, h3 h4, li, p {
   justify-content: space-between;
   align-items: center;
   box-shadow: 0px 2px 4px rgba(20, 20, 20, 0.4);
+  z-index: 999;
 
 }
 
@@ -48,5 +49,5 @@ h1, h2, h3 h4, li, p {
 #hero-header img {
   display: block;
   width: 60%;
-  margin: auto;
+  margin: 20px auto;
 }
